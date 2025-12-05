@@ -6,15 +6,13 @@ by Ishida et al. (ICLR 2023). Our work focuses on examining how violations of th
 soft-label assumptions—specifically annotation bias and model miscalibration—
 impact the consistency and reliability of Bayes error estimators.
 
-====================================================
 TEAM CONTRIBUTIONS
-====================================================
 
 Group members github account names:
 - @sherurox
 - @snavale2-001
 
-1. 2. Contribution by Shreyas – Hypothesis B & Fashion-MNIST Reproduction
+1. Contribution by Shreyas – Hypothesis B & Fashion-MNIST Reproduction
 ----------------------------------------------------------------------
 Shreyas completed all experiments and code required for **Hypothesis B**, which 
 investigates the role of neural network miscalibration in soft-label–based Bayes 
