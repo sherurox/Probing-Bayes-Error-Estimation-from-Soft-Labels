@@ -3,19 +3,19 @@ Project: Bayes Error Estimation Under Soft-Label Noise
 
 This project reproduces and extends the Bayes error estimation framework proposed 
 by Ishida et al. (ICLR 2023). Our work focuses on examining how violations of the 
-soft-label assumptions, specifically annotation bias and model miscalibration
+soft-label assumptions, specifically annotation bias and model miscalibration,
 impact the consistency and reliability of Bayes error estimators.
 
 TEAM CONTRIBUTIONS
 
-Group members github account names:
+Group members' GitHub account names:
 - @sherurox
 - @snavale2-001
 
 **1. Contribution by Shreyas – Hypothesis B & Fashion-MNIST Reproduction**
 ----------------------------------------------------------------------
 Shreyas completed all experiments and code required for **Hypothesis B**, which 
-investigates the role of neural network miscalibration in soft label based Bayes 
+investigates the role of neural network miscalibration in soft label-based Bayes 
 error estimation.
 
 Key contributions:
@@ -37,8 +37,8 @@ Key contributions:
 
 **2. Contribution by Samruddhi – Hypothesis A (Biased Annotators)**
 ---------------------------------------------------------------
-Samruddhi implemented all experiments related to **Hypothesis A**, which analyzes 
-how systematic annotation bias affects Bayes error estimation.
+Samruddhi implemented all experiments related to **Hypothesis A**, which analyses 
+How systematic annotation bias affects Bayes error estimation.
 
 Key contributions:
 - Implemented the simulation pipeline for generating true posteriors using 
@@ -52,7 +52,7 @@ Key contributions:
 - Demonstrated that even small annotation bias leads to large deviations 
   (e.g., 0.157 true vs. >0.222 biased estimate), confirming loss of estimator 
   consistency.
-- Produced all figures and analysis for biased vs. unbiased Bayes error behavior.
+- Produced all figures and analysis for biased vs. unbiased Bayes error behaviour.
 
 
 ------------------------------------------------------
