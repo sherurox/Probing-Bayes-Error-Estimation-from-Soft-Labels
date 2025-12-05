@@ -12,7 +12,7 @@ Group members github account names:
 - @sherurox
 - @snavale2-001
 
-1. Contribution by Shreyas – Hypothesis B & Fashion-MNIST Reproduction
+**1. Contribution by Shreyas – Hypothesis B & Fashion-MNIST Reproduction**
 ----------------------------------------------------------------------
 Shreyas completed all experiments and code required for **Hypothesis B**, which 
 investigates the role of neural network miscalibration in soft label based Bayes 
@@ -35,7 +35,7 @@ Key contributions:
   in Bayes error estimation.
 
 
-2. Contribution by Samruddhi – Hypothesis A (Biased Annotators)
+**2. Contribution by Samruddhi – Hypothesis A (Biased Annotators)**
 ---------------------------------------------------------------
 Samruddhi implemented all experiments related to **Hypothesis A**, which analyzes 
 how systematic annotation bias affects Bayes error estimation.
